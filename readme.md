@@ -24,7 +24,7 @@ setenforce 0 # Else disable SELINUX in /etc/sysconfig/selinux  and reboot
  ```
  **Execution**:
 Add a Jenkins Build Job As per the below screenshot and build it:
- - Note: Add the build commands from the **jenkins_build_commands.md** file
+ - Note: Add the build commands from the **jenkins_build_commands.md** file .
 
 ![Jenkins build job](https://github.com/prasanjit-/devops_pipeline_demo/blob/master/images/Jenkins01.png)
 ![Jenkins build job](https://github.com/prasanjit-/devops_pipeline_demo/blob/master/images/jenkins02.png)
